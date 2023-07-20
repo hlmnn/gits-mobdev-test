@@ -24,12 +24,13 @@ fun main() {
     val output = denseRanking(inputTotalScores, inputGitsScores)
 
     // output screen
+    println("Input: $inputGitsScores")
     println("Output: ${output.joinToString(" ")}")
 }
 
 fun denseRanking(totalScores: ArrayList<Int>, totalGitsScores: ArrayList<Int>): ArrayList<Int> {
     val sortedTotalScores = totalScores.sortedDescending() // sort berdasarkan nilai terbesar
-    val sortedGitsScore = totalGitsScores.sorted() // sort berdasarkan nilai terkecil
+    val sortedGitsScore = totalGitsScores // sort berdasarkan nilai terkecil
     val rankings = ArrayList<Int>() // variabel untuk menyimpan hasil rank
 
     var rank = 1 // inisialisasi rank awal
