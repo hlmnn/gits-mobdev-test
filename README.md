@@ -24,15 +24,21 @@ MSIB 5 - Hilman Fauzi Herdiana - SE
 ---
 **Test 1 (A000124 of Sloane's OEIS)**
 
-![image](https://github.com/hlmnn/gits-mobdev-test/assets/70952335/c2163d5c-4e79-43b9-8638-445e782547e1)
-![image](https://github.com/hlmnn/gits-mobdev-test/assets/70952335/4f5cfcef-5bb3-4f3f-808f-8c4b0cb8233a)
+<p>
+    <img src="https://github.com/hlmnn/gits-mobdev-test/assets/70952335/c2163d5c-4e79-43b9-8638-445e782547e1" width="50%">
+    <img src="https://github.com/hlmnn/gits-mobdev-test/assets/70952335/4f5cfcef-5bb3-4f3f-808f-8c4b0cb8233a" width="50%">
+</p>
 
 **Test 2 (Dense Ranking)**
 
-![image](https://github.com/hlmnn/gits-mobdev-test/assets/70952335/edefa3c5-36d7-4b11-a273-07e6c17e86fd)
+<p>
+    <img src="https://github.com/hlmnn/gits-mobdev-test/assets/70952335/edefa3c5-36d7-4b11-a273-07e6c17e86fd" width="50%">
+</p>
 
 **Test 3 (Balanced Bracket)**
 
-![image](https://github.com/hlmnn/gits-mobdev-test/assets/70952335/046dc6b8-6953-44e3-80d2-9ad5db6275ad)
-![image](https://github.com/hlmnn/gits-mobdev-test/assets/70952335/8d37c202-a698-4748-a3f7-4228939f9021)
-![image](https://github.com/hlmnn/gits-mobdev-test/assets/70952335/6dce8833-7028-4cea-b9fe-a992e15b4da9)
+<p>
+    <img src="https://github.com/hlmnn/gits-mobdev-test/assets/70952335/046dc6b8-6953-44e3-80d2-9ad5db6275ad" width="50%">
+    <img src="https://github.com/hlmnn/gits-mobdev-test/assets/70952335/8d37c202-a698-4748-a3f7-4228939f9021" width="50%">
+    <img src="https://github.com/hlmnn/gits-mobdev-test/assets/70952335/6dce8833-7028-4cea-b9fe-a992e15b4da9" width="50%">
+</p>
