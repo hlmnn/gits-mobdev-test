@@ -3,6 +3,9 @@
 MSIB 5 - Hilman Fauzi Herdiana - SE
 
 **Jawaban Test 3 (Balanced Bracket). Berapa ukuran kompleksitas kodinganmu?**
+
+![image](https://github.com/hlmnn/gits-mobdev-test/assets/70952335/2ce14ee3-f1e0-48ae-b242-21d0553151a6)
+
 > Kompleksitas kodingan ini dihitung berdasarkan dua aspek, yaitu ***Time Complexity*** dan ***Space Complexity***. Langkah-langkah operasi yang ada pada kodingan ini adalah sebagai berikut:
 > 
 > - Inisialisasi variabel `var i = -1`. Operasi ini memiliki kompleksitas waktu dan ruang **O(1)**, karena hanya melibatkan pengalokasian ruang untuk satu variabel.
